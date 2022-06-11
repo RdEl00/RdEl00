@@ -20,6 +20,7 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.hackerrank.com/RdEl00">Hackerrank</a>
+├─◈ <a href="https://rdel00.github.io/">Website</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
