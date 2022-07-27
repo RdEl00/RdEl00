@@ -10,7 +10,7 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ I'm Reda Elasli Alias RdEl00
+├─▣ I'm Reda Alias RdEl00
 ├─▣ Master Student, Majoring in Business & Finance <!-- @ <a href="https://encg-settat.ma/">ENCG SETTAT</a> -->
 ├─▣ I'm interested in Technology, Data, Business & Finance.
 │<!--─▣ Computer Science Student <!--@ <a href="https://uopeople.edu/">The Uopeople</a>-->
