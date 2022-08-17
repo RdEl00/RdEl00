@@ -28,4 +28,5 @@
 | [![RdEl00's GitHub stats](https://github-readme-stats.vercel.app/api?username=RdEl00&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=github_dark)](https://github.com/RdEl00?tab=repositories) | [![RdEl00's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RdEl00&layout=compact&hide_border=true&theme=github_dark&hide=C,PHP,Assembly,c%2B%2B,)](https://github.com/RdEl00?tab=repositories) |
 |:-:|:-:|
 ---------------
-![](https://komarev.com/ghpvc/?username=RdEl00&color=gray) ![](https://hit.yhype.me/github/profile?user_id=65583321)
+<!-- ![](https://komarev.com/ghpvc/?username=RdEl00&color=gray) -->
+![](https://hit.yhype.me/github/profile?user_id=65583321)
