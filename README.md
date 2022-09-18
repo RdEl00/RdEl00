@@ -1,7 +1,7 @@
 ## > $ cd /home/
 </p>
 <p align="center">  
-<img src =abstraction-o.gif>
+<img src =abstraction-o.gif alt="I'm not a jack of all trades, but somehow I found interest in a lot of things which I'm taking the time to learn and exchange about!!!">
 </p>
 
 ---------------
