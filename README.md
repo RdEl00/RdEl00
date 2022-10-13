@@ -13,14 +13,15 @@
 ├─▣ I'm interested in Technology, Data, Business & Finance.
 │<!--─▣ Computer Science Student <!--@ <a href="https://uopeople.edu/">The Uopeople</a>-->
 └───────────────────────────────▰▰▰
-
+</pre>
+<!--
 ┌──┤ $SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.hackerrank.com/RdEl00">Hackerrank</a>
 ├─◈ <a href="https://rdel00.github.io/">Website</a>
 │
 └───────────────────────────────▰▰▰
-</pre>
+-->
 
 ---------------
 
