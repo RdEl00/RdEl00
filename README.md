@@ -4,17 +4,20 @@
 <img src =abstraction-o.gif alt="I'm not a jack of all trades, but somehow I found interest in a lot of things which I'm taking the time to learn and exchange about!!!">
 </p>
 
----------------
+<!--------------->
+<!--
 <pre>
+
 ┌──┤ $WHOAMI ├─────────▰▰▰
 │
 ├─▣ I'm Reda Alias RdEl00
-├─▣ Master Student, Majoring in Business & Finance <!-- @ <a href="https://encg-settat.ma/">ENCG SETTAT</a> -->
+├─▣ Master Student, Majoring in Business & Finance <!-- @ <a href="https://encg-settat.ma/">ENCG SETTAT</a>
 ├─▣ I'm interested in Technology, Data, Business & Finance.
-│<!--─▣ Computer Science Student <!--@ <a href="https://uopeople.edu/">The Uopeople</a>-->
+│<!--─▣ Computer Science Student <!--@ <a href="https://uopeople.edu/">The Uopeople</a>
 └───────────────────────────────▰▰▰
+
 </pre>
-<!--
+
 ┌──┤ $SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.hackerrank.com/RdEl00">Hackerrank</a>
